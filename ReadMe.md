@@ -32,7 +32,7 @@ CipherTool — приложение с графическим интерфейс
 - CMake ≥ 3.10
 
 ```bash
-git clone https://github.com/yourusername/CipherTool.git
+git clone https://github.com/Asriel-Dreamur/CipherTool.git
 cd CipherTool
 mkdir build && cd build
 cmake .. -G "Visual Studio 17 2022" -A x64

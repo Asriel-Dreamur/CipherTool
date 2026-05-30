@@ -1,0 +1,7 @@
+cipher CaesarExample {
+    version: 1
+    description: "Шифр Цезаря для русского алфавита (сдвиг 3)"
+    alphabet: "rus"
+    steps:
+        caesar shift=3
+}
